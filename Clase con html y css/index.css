@@ -1,0 +1,33 @@
+*{
+}
+
+
+section{
+    color: blue;
+}
+
+.cont-1{
+    background-color: aqua;
+}
+
+
+.cont-2{
+    background-color: blue;
+        color: white;
+    }
+
+.cont-3{
+    color: aquamarine;
+    background-color: black;
+}    
+
+.padre{
+    display: flex;
+    border: solid black;
+    padding: 100px;
+    gap: 30px;
+    height: 300px;
+}
+.hijo{
+    padding: 20px;
+}
